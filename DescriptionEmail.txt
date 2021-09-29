@@ -1,0 +1,12 @@
+Project description
+
+1. AppointmentCRUD project directory, which implements the simple addition, deletion and editing of patient data in a client-side database.
+2. The list of visits reflects the data of all patients who are registered for an appointment.
+3. Shedule a visit - plan a patient's visit.
+4. Send reminder - the ability to manually send reminders to the patient.
+The model (database) is specified in the project, in the absence of this table it is necessary to perform database migrations
+Regarding sending email reminders.
+A program is running on the server that will monitor the database and record patient dates, compare today's date with the date, and send reminders if a match is found.
+Of course, you can set up another monitoring system, it's a simple implementation.
+The server side uses the smtp client ("smtp.gmail.com"). 
+You will need to insert the sender's email and the recipient's email in the code, this can be done in the SendEmailMessange.cs file.
