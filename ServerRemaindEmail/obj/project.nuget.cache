@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PSl7mAtZO/VjDbPi1DRbec03n7YupHI8IwEYSAp3Y6S5cW21EUIYJn0l5g6CECF0Z8tGcdaIBhTS7WcGAA1oA==",
+  "dgSpecHash": "XGYIlmpA/Ynw1dR1cdgOG0b10o0uTUlx7N1/yUFzw85kRkLinUNi/2yNtRn59NsrBpNdbbfd4jHXDsqEyJMOfQ==",
   "success": true,
-  "projectFilePath": "d:\\MY_Project\\.NET\\ServerRemaindEmail\\ServerRemaindEmail.csproj",
+  "projectFilePath": "d:\\MY_Project\\.NET\\Email\\ServerRemaindEmail\\ServerRemaindEmail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\if164\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\if164\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
